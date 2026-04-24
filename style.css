@@ -146,3 +146,6 @@ h2:hover {
   margin-top: 10px;
   width: 100%;
 }
+.card a button {
+  margin-top: 10px;
+}
