@@ -152,3 +152,11 @@ h2:hover {
 .card a button {
   margin-top: 10px;
 }
+.btn-group {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-group button {
+  width: 100%;
+}
